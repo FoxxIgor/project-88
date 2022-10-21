@@ -1,0 +1,54 @@
+
+
+.bodyBackground {
+    background-image: url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h2{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3{
+	display: inline-block;
+}
+span{
+	color: black;	
+}
+a{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#headInfo{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
+.blocks{
+	width: 25%;
+}
+#teclas{
+	margin-left: 10px;
+	width: 200px;
+	float: left; /* faz com que fique na esquerda da tela*/
+	background-color: yellowgreen;
+	border: 1px solid yellow;
+	color: rgb(236, 250, 157);
+}
+li{
+	margin-bottom: 5px;
+	text-align: justify;
+}
+ul{
+	list-style:none;
+}
